@@ -4,6 +4,7 @@
 !   Lorenz, 1963
 !   Whitaker and Hamill, 2002
 !   Otsuka and Miyoshi, 2015
+!   Ito, 2012 (prototype of this code)
 ! [History]
 !   Hajime KOIKE created,  Aug. 31st, 2018
 !   Hajime KOIKE modified, Sep. 6th, 2018
