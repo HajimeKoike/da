@@ -4,8 +4,8 @@
 
 # Plan
 
-- Add discrete bayes filter
-- Add example using Lorenz63 Euler, RK4
+- Add discrete bayes filter as a module
+- Add example using Lorenz96 RK4
 
 # Author
 
